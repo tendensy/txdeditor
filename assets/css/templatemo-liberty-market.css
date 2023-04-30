@@ -137,7 +137,7 @@ body {
   font-size: 14px;
   color: #fff;
   background-color: transparent;
-  border: 1px solid #7453fc;
+  border: 1px solid #3205e8;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -161,15 +161,15 @@ body {
 }
 
 .border-button a:hover {
-  background-color: #7453fc;
+  background-color: #000099;
   color: #fff;
 }
 
 .main-button a {
   font-size: 14px;
   color: #fff;
-  background-color: #7453fc;
-  border: 1px solid #7453fc;
+  background-color: #000099;
+  border: 1px solid #000099;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -194,7 +194,7 @@ body {
 
 .main-button a:hover {
   background-color: #fff;
-  color: #7453fc;
+  color: #000099;
   border: 1px solid #fff;
 }
 
@@ -213,7 +213,7 @@ section {
 .section-heading .line-dec {
   width: 100px;
   height: 2px;
-  background-color: #7453fc;
+  background-color: #000099;
   margin: 0 auto 30px auto;
 }
 
@@ -227,7 +227,7 @@ section {
 }
 
 .section-heading h2 em {
-  color: #7453fc;
+  color: #000099;
   font-style: normal;
 }
 
@@ -304,7 +304,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #7453fc;
+  background: #000099;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
